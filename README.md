@@ -21,7 +21,7 @@
 <code> <img align="center" height="30" width="40" style="max-width: 100%;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> </code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> <br>
 
-[![erfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfilho&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![erfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfilho&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **erfilho/erfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
