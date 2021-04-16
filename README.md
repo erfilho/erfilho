@@ -1,8 +1,9 @@
 ### Hi there 👋
 ## I'm Erineldo Filho
-- Cursando Ciências da Computação - IFCE :computer:
-- Às vezes front-end, às vezes back-end :keyboard:
-- Começando estudos em Python :snake:
+- From Brazil, Northeast :brazil: :sunglasses:
+- Studying computer science - IFCE :computer:
+- Sometimes front-end, sometimes back-end :keyboard:
+- Learning Python :snake:
 ## You can find me at:
 
 <a href="https://www.linkedin.com/in/erxfilho/" target="_blank">
