@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Erineldo Filho
+## I'm Erineldo Filho _aka_ Neldim
 - From Brazil, Northeast :brazil: :sunglasses:
 - Studying computer science - IFCE :computer:
 - Sometimes front-end, sometimes back-end :keyboard:
