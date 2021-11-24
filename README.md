@@ -1,9 +1,10 @@
 ## Hi there 👋
 ## I'm Erineldo Filho _aka_ Neldim
+- 19y old 🤠
 - From Brazil, Northeast :brazil: :sunglasses:
-- Studying computer science - IFCE :computer:
-- Sometimes front-end, sometimes back-end :keyboard:
-- Learning Python :snake:
+- Love Music, Computers, Programming, Problem solving 🤡
+- Studying Computer Science - IFCE :computer:
+- I'm currently learning: NodeJs, Js, Java 🌱
 ## You can find me at:
 
 <a href="https://www.linkedin.com/in/erxfilho/" target="_blank">
@@ -11,16 +12,14 @@
 </a> <br>
 
 ## I have experience with:
-<code><img align="center" height="30" width="40" style="max-width: 100%;" alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="c" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"></code>
-<code><img align="center" height="30" width="40" style="max-width: 100%;" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></code>
+<code><img align="center" height="30" width="40" style="max-width: 100%;" alt="js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg"></code>
-<code> <img align="center" height="30" width="40" style="max-width: 100%;" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code> <img align="center" height="30" width="40" style="max-width: 100%;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> </code>
-<code><img align="center" height="30" width="40" style="max-width: 100%;" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> <br>
+<code><img align="center" height="30" width="40" style="max-width: 100%;" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img align="center" height="30" width="40" style="max-width: 100%;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></code><br>
 
 [![erfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfilho&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
