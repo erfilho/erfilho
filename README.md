@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Erineldo Filho _aka_ Neldim
+## I'm Erineldo Filho
 - 19y old 🤠
 - From Brazil, Northeast :brazil: :sunglasses:
 - Love Music, Computers, Programming, Problem solving 🤡
