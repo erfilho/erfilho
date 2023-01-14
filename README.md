@@ -20,8 +20,7 @@
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="jquery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img align="center" height="30" width="40" style="max-width: 100%;" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"></code><br>
-
-[![erfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfilho&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![erfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=erfilho)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **erfilho/erfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
