@@ -2,9 +2,9 @@
 ## I'm Erineldo Filho
 - 21y old :robot:	
 - From Brazil, Northeast :brazil: :sunglasses:
-- Love Music, Computers, Programming, Problem solving 
-- Studying Computer Science - IFCE in 8th semestres :computer:
-- Actually working in Fortaleza Vidros e Granitos at FullStack Developer
+- Love Music, Computers, Programming, Problem solving :thinking:
+- Studying Computer Science - IFCE in 8th semester :computer:
+- Actually working at Fortaleza Vidros e Granitos as a FullStack Developer :desktop_computer::keyboard:
  
 ## You can find me at:
 <div>
