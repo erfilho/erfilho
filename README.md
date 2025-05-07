@@ -1,6 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Erineldo Filho</h1>
+<p align="left">
 
-<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&multiline=true&width=435&height=75&lines=Hi+there%2C+i'm+Erineldo+Filho;Fullstack+developer)](https://git.io/typing-svg)
+</p>
+
+<p align="left">
   🎓 9th Semester Computer Science Student at IFCE<br>
   🧠 Passionate about Problem Solving, Programming, and Tech<br>
   🌍 From Northeast Brazil — 23 years old<br>
@@ -11,25 +14,17 @@
 
 ### 🚀 Tech Stack & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" alt="Express.js" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP"/>
+   
+  [![My Skills](https://skillicons.dev/icons?i=git,github,react,nodejs,tailwind,bootstrap,sequelize,prisma,vite,express,linux,mysql,postgresql,sqlite,java,python,js,selenium,jest,php,c,html,css,docker,eclipse,vscode,postman,latex&perline=7)](https://skillicons.dev)
 </p>
+
 
 ---
 
 ### 📚 Currently Learning
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+  
+  [![My Skills](https://skillicons.dev/icons?i=typescript,firebase,figma,heroku&perline=7)](https://skillicons.dev)
 </p>
 
 ---
