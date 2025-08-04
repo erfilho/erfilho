@@ -40,7 +40,7 @@
 
 ## 📚 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,firebase,figma,heroku,neovim,lua&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vuejs,typescript,firebase,figma,obsidian,heroku,neovim,lua&perline=8" />
 </p>
 
 ## 📊 GitHub Stats
