@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Erineldo Filho</h1>
+<h1 align="center">👋 Hi there, I'm Erineldo Filho</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&multiline=true&width=435&height=75&lines=Fullstack+Developer;QA+Analyst;Computer+Science+Student" />
+ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&multiline=true&width=435&height=80&lines=Fullstack+Developer;QA+Analyst" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ## 💼 Featured Projects
 
-📌 Aqui estão alguns projetos que mostram meu trabalho com **desenvolvimento fullstack**:
+📌 Here are some projects that showcase my work with **Fullstack development**:
 
 - 🔗 [**salesTracking**](https://github.com/erfilho/salesTracking)  
   📝 Sales and production tracking system for glass shops, featuring **material status control** and **user hierarchy**.  
@@ -27,7 +27,7 @@
   📝 Web app for sign language transcription using **OpenAI API**  
   🛠️ *React · Tailwind · OpenAI API · Node.js*
 
-*(Mais projetos no meu perfil ➡️ [GitHub](https://github.com/erfilho))*  
+*(More projects on my profile ➡️ [GitHub](https://github.com/erfilho))*  
 
 ---
 
