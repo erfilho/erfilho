@@ -31,16 +31,67 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,tailwind,bootstrap,sequelize,prisma,vite,express,linux,mysql,postgresql,sqlite,java,python,js,selenium,jest,php,c,html,css,docker,eclipse,vscode,postman,latex&perline=10" />
+## 🚀 My skills
+
+### 🧠 Programming Languages
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c&perline=6" />
+</p>
+
+---
+
+### 🌐 Front-End Development
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=react,vuejs,tailwind,bootstrap,html,css,vite&perline=7" />
+</p>
+
+---
+
+### ⚙️ Back-End Development
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,sequelize,prisma&perline=5" />
+</p>
+
+---
+
+### 🛢️ Databases
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase&perline=4" />
+</p>
+
+---
+
+### 🧪 Testing & QA
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=jest,selenium&perline=2" />
+</p>
+
+---
+
+### ☁️ DevOps, APIs & Version Control
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=docker,heroku,postman,git,github&perline=5" />
+</p>
+
+---
+
+### 🧰 IDEs & Development Tools
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,neovim,figma,obsidian,latex&perline=6" />
+</p>
+
+---
+
+### 💻 Operating Systems
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=linux&perline=1" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,typescript,firebase,figma,obsidian,heroku,neovim,lua&perline=8" />
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=typescript,vuejs,firebase,lua,neovim&perline=5" />
 </p>
 
 ## 📊 GitHub Stats
