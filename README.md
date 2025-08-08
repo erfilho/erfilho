@@ -27,6 +27,11 @@
   📝 Web app for sign language transcription using **OpenAI API**  
   🛠️ *React · Tailwind · OpenAI API · Node.js*
 
+
+- 🔗 [**toDoList**](https://github.com/erfilho/toDoListVueJs)  
+  📝 Simple toDo list maded with VueJs and Firestore  
+  🛠️ *VueJs · Tailwind · Firebase*
+
 *(More projects on my profile ➡️ [GitHub](https://github.com/erfilho))*  
 
 ---
